@@ -16,3 +16,6 @@ Here is a preview of each fractal app:
 
 * <code>squares.py</code> : <br><br>
 ![squares.py preview](res/squares.png)
+  
+* <code>binary_tree.py</code> :<br><br>
+![binary_tree.py preview](res/binary_tree.png)
