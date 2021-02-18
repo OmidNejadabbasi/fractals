@@ -10,5 +10,9 @@ python3 triangles.py
 
 Here is a preview of each fractal app:
 
-* <code>triangles.py</code>:<br>
+* <code>triangles.py</code> :<br><br>
 ![triangles.py preview](res/triangles.png)
+
+
+* <code>squares.py</code> : <br><br>
+![squares.py preview](res/squares.png)
